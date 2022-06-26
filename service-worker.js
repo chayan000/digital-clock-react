@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/digital-clock-react/precache-manifest.2042ba2d5f35296a2cb0b95b4baba1aa.js"
+  "/digital-clock-react/precache-manifest.692d64a5c24ace3e88e45881b0eb2630.js"
 );
 
 workbox.clientsClaim();

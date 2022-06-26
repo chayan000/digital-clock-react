@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0ace819aff843c584ae4",
+    "revision": "f73a6e4b727c98714bf9",
     "url": "/digital-clock-react/static/css/main.b30bf8fb.chunk.css"
   },
   {
-    "revision": "0ace819aff843c584ae4",
-    "url": "/digital-clock-react/static/js/main.0ace819a.chunk.js"
+    "revision": "f73a6e4b727c98714bf9",
+    "url": "/digital-clock-react/static/js/main.f73a6e4b.chunk.js"
   },
   {
     "revision": "41211fcf000cf3a9973c",
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/digital-clock-react/static/js/runtime~main.fde199e6.js"
   },
   {
-    "revision": "7cf5a7a8f3c786903f8df1283b3985e3",
+    "revision": "034a2f3107ee7f4d79d4d0a87c346161",
     "url": "/digital-clock-react/index.html"
   }
 ];

@@ -1,4 +1,4 @@
-
+import React from 'react'
 import "./timer.css";
 var flag = 0;
 function resetbutton() {

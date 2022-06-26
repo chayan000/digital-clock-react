@@ -1,3 +1,4 @@
+import React from 'react'
 import "./stopwatch.css";
 function stop_watch(){
     var interval;

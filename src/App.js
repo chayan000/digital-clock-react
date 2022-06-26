@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <Header />
       <Routes>
-        <Route path="/" element={<Clock />} />
+        <Route path="" element={<Clock />} />
         <Route path="/timer" element={<Timer />} />
         <Route path="/stopwatch" element={<Stop_watch />} />
       </Routes>

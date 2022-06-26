@@ -1,0 +1,49 @@
+.button {
+    background-color: #4ea7f0;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    width: 200px;
+    font-size: 25px;
+    margin: 4px 2px;
+    border-radius: 40px
+    
+}
+#set{
+background-color: green;
+}
+#reset{
+    background-color: red;
+}
+.container{
+    height: 400px; width: 70%;text-align: center;
+}
+#entertime{
+    color:green; text-align:center;font-size: 40pt;font-style: inherit;
+}
+.inputtime{
+    color: rgb(241, 163, 68);
+    width: 500px;
+    height: 140px;
+    font-size: 70pt;
+    border-radius: 20px;
+}
+.countdown{
+    color:green; text-align:center;
+}
+.timer{
+    height: 100vh;
+background: rgb(66, 24, 24);
+position: right;
+}
+#showtime{
+    color: aqua;
+    font-size: 70pt;
+}
+#time{
+    font-family: 'digital-7';
+    color: blue;
+    font-size: 70pt;
+}

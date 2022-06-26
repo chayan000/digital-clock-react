@@ -1,0 +1,45 @@
+
+.clock{
+
+height: 100vh;
+background: rgb(66, 24, 24);
+position: right;
+
+}
+.head{
+    color: rgb(248, 199, 199);
+    text-align:center;
+}
+.container{
+    height: 400px; 
+    width: 70%;
+    
+}
+.time{
+    color:green; 
+    text-align:center;
+}
+
+#time1{
+    font-family: 'digital-7';
+    color:blue;
+    font-size:120pt;
+    
+}
+.ampm{
+    color:rgb(17, 5, 0) ;
+    font-size: medium; 
+    background-color: aqua;
+}
+.date{
+    color:green; text-align:center;font-size: 30pt;
+}
+#date{
+    font-family: 'digital-7'; color: rgb(254, 106, 222); font-size: 0pt;
+}
+.days{
+    color:rgb(227, 243, 10) ;font-size: medium;
+}
+.day{
+ padding-right: 10px;opacity: 0.3;
+}
